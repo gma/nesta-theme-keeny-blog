@@ -1,6 +1,6 @@
 keeny Nesta theme
 =================
 
-keeny is a theme for Nesta, a [Ruby CMS](nesta), designed by Barry Keenan.
+This is a theme for my personal blog which runs on Nesta, a [Ruby CMS](nesta)
 
 [nesta]: http://effectif.com/nesta
